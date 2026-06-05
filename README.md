@@ -1,0 +1,2 @@
+# Breast-Cancer-Wisconsin-Diagnostic---Exploratory-Data-Analysis-Logistic-Regression-Model
+This project applies Exploratory Data Analysis, Feature Engineering, and Logistic Regression on the Breast Cancer Wisconsin (Diagnostic) dataset to classify tumors as malignant or benign. It includes data cleaning, visualization, correlation analysis, feature scaling, model training, and evaluation using multiple classification metrics.
